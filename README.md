@@ -1,16 +1,19 @@
 ## Credits
-
 [Dan Perrera][4] for creating the [original icon][5] and releasing the PSD file.
 
-## Build Your Own
+## Sample Icons
+<center>![Sample Icons](https://raw.github.com/igstan/sublime-text-icons/master/sample-icons.png)</center>
 
+## Download
+From here: https://github.com/downloads/igstan/sublime-text-icons/sublime-document-icons.zip
+
+## Build Your Own
 1. open `create-iconsets.js` in Photoshop from **File** > **Scripts** > **Browse...**
 2. wait for the script to generate the iconsets in the build directory
 3. execute `make` (it assumes the `iconutil` executable is installed and on path)
 4. the **build** directory will contain the generated "icns" files
 
 ## References
-
 - [JavaScript Tools Guide CS5][0] (PDF)
 - [Adobe Photoshop CS5 Scripting Guide][1] (PDF)
 - [Adobe Photoshop CS5 JavaScript Reference][2] (PDF)
