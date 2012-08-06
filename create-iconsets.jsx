@@ -1,6 +1,8 @@
 // Load this in Photoshop from "File > Scripts > Browse..."
 
-var langs = {
+const sizes = [512, 256, 128, 32, 16];
+
+const langs = {
   // keys: used to name resulted iconsets
   // values: used for text in template icon
   "ASP": "ASP",
@@ -60,7 +62,6 @@ function exportIconset(doc, iconText, fileName, folder) {
   var originalState = doc.activeHistoryState;
   doc.artLayers["TEXT"].textItem.contents = iconText;
 
-  var sizes = [512, 256, 128, 32, 16];
   var beforeResize = doc.activeHistoryState;
 
   for (var i=0; i<sizes.length; i++) {
