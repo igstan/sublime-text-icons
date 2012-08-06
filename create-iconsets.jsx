@@ -65,8 +65,9 @@ function exportIconset(doc, iconText, fileName, folder) {
 
   for (var i=0; i<sizes.length; i++) {
     var size = sizes[i];
+    var width = height = UnitValue(size, "px");
 
-    doc.resizeImage(size, size, doc.resolution, ResampleMethod.BICUBIC);
+    doc.resizeImage(width, height, doc.resolution, ResampleMethod.BICUBIC);
 
     var saveTarget = new File(folder.absoluteURI + "/icon_" + size + "x" + size + ".png");
     var options = new ExportOptionsSaveForWeb;
