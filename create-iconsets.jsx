@@ -15,6 +15,7 @@ const langs = {
   "COFFEE": "COFFEE",
   "CONFIG": "CONFIG",
   "CSS": "CSS",
+  "CSV": "CSV",
   "DART": "DART",
   "Document": "",
   "DOT": "DOT",
