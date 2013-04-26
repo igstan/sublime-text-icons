@@ -2,7 +2,10 @@
 [Dan Perrera][4] for creating the [original icon][5] and releasing the PSD file.
 
 ## Sample Icons
-<center>![Sample Icons](https://raw.github.com/igstan/sublime-text-icons/master/sample-icons.png)</center>
+<center>![Sample Icons](sample-icons.png)</center>
+
+## Pre-built Icons
+You can find a set of pre-built icons in the [icons](icons) directory.
 
 ## Download
 From here: https://github.com/downloads/igstan/sublime-text-icons/sublime-document-icons.zip
