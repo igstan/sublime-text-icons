@@ -26,6 +26,7 @@ const langs = {
   "IO": "IO",
   "JAVA": "JAVA",
   "JS": "JS",
+  "JSON": "JSON",
   "JSP": "JSP",
   "LISP": "LISP",
   "LUA": "LUA",
@@ -52,8 +53,10 @@ const langs = {
   "TeX": "TeX",
   "TEXT": "TEXT",
   "TEXTILE": "TEXTILE",
+  "WSDL": "WSDL",
   "XHTML": "XHTML",
   "XML": "XML",
+  "XSD": "XSD",
   "XSL": "XSL",
   "YAML": "YAML",
   "YAWS": "YAWS"
