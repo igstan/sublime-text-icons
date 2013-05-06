@@ -5,7 +5,7 @@
 <center>![Sample Icons](sample-icons.png)</center>
 
 ## Download
-From here: https://github.com/downloads/igstan/sublime-text-icons/sublime-document-icons.zip
+From here: http://static.igstan.ro/st2-icons.zip
 
 ## Build Your Own
 1. open `create-iconsets.jsx` in Photoshop from **File** > **Scripts** > **Browse...**
