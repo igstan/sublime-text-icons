@@ -4,9 +4,6 @@
 ## Sample Icons
 <center>![Sample Icons](sample-icons.png)</center>
 
-## Pre-built Icons
-You can find a set of pre-built icons in the [icons](icons) directory.
-
 ## Download
 From here: https://github.com/downloads/igstan/sublime-text-icons/sublime-document-icons.zip
 
