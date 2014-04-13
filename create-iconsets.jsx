@@ -44,6 +44,7 @@ const langs = {
   "RAILS": "RAILS",
   "REGEXP": "REGEXP",
   "RUBY": "RUBY",
+  "RUST": "RUST",
   "SCALA": "SCALA",
   "SCHEME": "SCHEME",
   "SHELL": "SHELL",
