@@ -5,6 +5,7 @@ const sizes = [512, 256, 128, 32, 16];
 const langs = {
   // keys: used to name resulted iconsets
   // values: used for text in template icon
+  "ASM": "ASM",
   "ASP": "ASP",
   "BATCH": "BATCH",
   "BibTeX": "BibTeX",
@@ -19,6 +20,7 @@ const langs = {
   "DART": "DART",
   "Document": "",
   "DOT": "DOT",
+  "DTD": "DTD",
   "ERLANG": "ERLANG",
   "GROOVY": "GROOVY",
   "HASKELL": "HASKELL",
